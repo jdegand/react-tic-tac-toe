@@ -6,22 +6,21 @@ This is the completed result from this tutorial  [React Docs](https://reactjs.or
 
 - [Overview](#overview)
 - [Built with](#built-with)
-- [Thoughts](#thoughts)
 - [Extras](#extras)
 - [Useful resources](#useful-resources)
 
 ## Overview
 
+I did this to refresh my React knowledge.  I  had originally completed this tutorial before the introduction of hooks so this time I used hooks.
+
+[Live Link](https://jdegand.github.io/react-tic-tac-toe)
+
 ![](react-tic-tac-toe.png)
 
 ## Built with
 
-- react
-
-## What I learned
-
-I did this after putting down React for a while.  I originally completed this tutorial before the introduction of hooks so this time I did it with hooks. 
-
+- React
+ 
 ## Extras
 
 - [ ] Display the location for each move in the format (col, row) in the move history list.
