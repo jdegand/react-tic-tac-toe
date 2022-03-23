@@ -1,6 +1,6 @@
 # React Tic Tac Toe
 
-This is the completed result from this tutorial  [React Docs](https://reactjs.org/tutorial/tutorial.html).
+This is the completed result from this tutorial  [React Docs](https://web.archive.org/web/20220304143246/https://reactjs.org/tutorial/tutorial.html).
 
 ## Table of contents
 
@@ -11,7 +11,7 @@ This is the completed result from this tutorial  [React Docs](https://reactjs.or
 
 ## Overview
 
-I did this to refresh my React knowledge.  I  had originally completed this tutorial before the introduction of hooks so this time I used hooks.
+I did this to refresh my React knowledge.  I  had originally completed this tutorial before the introduction of hooks so this time I used hooks.  Looks like React documentation will be refreshed soon.  [React Docs Beta](https://beta.reactjs.org/) is a preview of the new documentation site.  
 
 [Live Link](https://jdegand.github.io/react-tic-tac-toe)
 
